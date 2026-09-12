@@ -30,3 +30,11 @@ Open the folder in Android Studio with a recent Android Gradle Plugin/Kotlin set
 Run on Android 8.0+.
 
 For two-phone testing, connect both phones to the same local Wi-Fi network.
+SIH26103
+TEAM MEMBERS:
+1 
+2
+3
+4
+5
+6
